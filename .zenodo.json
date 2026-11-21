@@ -1,0 +1,30 @@
+{
+  "title": "Not rainfall: mean rainfall and population loss in the 1899–1900 famine — a famine-focused re-extraction of the Imperial Gazetteers for central India",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Did tracts with kinder ordinary climates lose fewer people in the famine of 1899–1900? Across 34 units of central India — 19 Central Provinces districts, 4 Berar districts, and 11 Central India Agency princely states — the answer is no. Gazetteer-reported mean (long-run normal) rainfall is essentially uncorrelated with population change between the 1891 and 1901 censuses: r = −0.05 (n = 20). That null is this paper's headline result, and it is strictly a statement about mean rainfall — not about the 1899 rainfall deficit, which the prior literature does link to famine. We reach it through a famine-focused re-extraction of the Imperial Gazetteers: Roy (2014) first extracted a statistical panel from the 1908 Gazetteers; the lab re-extracts that source for one famine region, joining the census spine to the gazetteer-native famine series (relief, outturn, death-rates, prices, land out of cultivation). The panel also re-quantifies a contrast contemporaries already reported (Census of India 1901; Famine Commission 1901; Holderness's −14.5% for famine-affected native states): the 11 princely states lost an unweighted mean of −16.2%, against −7.5% for the 23 British districts; the four worst outcomes are all princely states (Bhopal −30.1%, Jaora −28.4%, Dewas −23.2%, Indore −22.7%). Mortality decouples from headcount wherever people could move (r = +0.46, n = 9, not significant); relief coverage tracks distress, not outcome (r = +0.30, n = 12, not significant). All results are descriptive: the decade sums two famines, and migration sits inside the outcome. Keywords: famine of 1899–1900; Central Provinces; Berar; Central India Agency; princely states; Imperial Gazetteer; Census of India; relief administration; historical demography ---",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "famine 1899-1900",
+    "Imperial Gazetteers",
+    "rainfall",
+    "India",
+    "historical statistics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/gazetteers-famine-1900",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
